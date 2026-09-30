@@ -6,4 +6,8 @@ public class App {
         System.out.println("Hello, la promo!");
         System.out.println("Bye");
     }
+
+    static int add(int a, int b) {
+        return a + b;
+    }
 }
